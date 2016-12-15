@@ -279,6 +279,9 @@
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="ALIGN_TUPLE_ELEMENTS" value="true" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -396,5 +399,17 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="2" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="METHOD_PARAMETERS_WRAP" value="2" />
+    <option name="EXTENDS_LIST_WRAP" value="2" />
+    <option name="EXTENDS_KEYWORD_WRAP" value="2" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
   </codeStyleSettings>
 </code_scheme>
