@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="kjb" type="Native" />
+      <mapping ext="ktr" type="Native" />
       <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
       <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
